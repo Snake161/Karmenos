@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snake161!
+- 👋 Hello there, I’m @Snake161!
 - 👀 I'm knowledgeable when it comes to the Italian and English language and am open for translation requests involving these languages.
 - 🌱 I’m currently learning how software development works.
 - 💞️ I’m looking to collaborate on any project involving translation.
